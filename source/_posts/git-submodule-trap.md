@@ -1,6 +1,6 @@
 ---
 title: 记一次 Hexo 部署 Vercel 白屏的排查过程
-date: 2026-07-06
+date: 2026-07-06 15:30:00
 tags:
   - Hexo
   - Git
