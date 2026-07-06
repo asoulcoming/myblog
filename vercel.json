@@ -1,0 +1,5 @@
+{
+  "buildCommand": "hexo generate",
+  "outputDirectory": "public",
+  "installCommand": "npm install"
+}
