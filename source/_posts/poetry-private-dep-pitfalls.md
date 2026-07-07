@@ -1,6 +1,11 @@
 ---
 title: Poetry 虚拟环境有 pip 却没项目包？poetry sync 修好了
 date: 2026-07-07 16:00:00
+tags:
+  - Python
+  - Poetry
+  - VSCode
+  - 环境搭建
 ---
 
 接手一个 Poetry 管理的 Python 项目，VSCode 打开后 `import` 全线爆红。排查过程走了一堆弯路，最后发现根因简单得离谱。
